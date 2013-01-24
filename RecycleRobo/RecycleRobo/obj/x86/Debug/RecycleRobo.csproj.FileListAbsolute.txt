@@ -1,0 +1,12 @@
+C:\Users\hongnv92\Desktop\RecycleRobo\RecycleRobo\RecycleRobo\bin\x86\Debug\RecycleRobo.exe
+C:\Users\hongnv92\Desktop\RecycleRobo\RecycleRobo\RecycleRobo\bin\x86\Debug\RecycleRobo.pdb
+C:\Users\hongnv92\Desktop\RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\RecycleRobo.csprojResolveAssemblyReference.cache
+C:\Users\hongnv92\Desktop\RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\hongnv92\Desktop\RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\RecycleRobo.exe
+C:\Users\hongnv92\Desktop\RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\RecycleRobo.pdb
+E:\IMAGINE CUP\project\ImagineCup_RecycleRobo\RecycleRobo\RecycleRobo\bin\x86\Debug\RecycleRobo.exe
+E:\IMAGINE CUP\project\ImagineCup_RecycleRobo\RecycleRobo\RecycleRobo\bin\x86\Debug\RecycleRobo.pdb
+E:\IMAGINE CUP\project\ImagineCup_RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\RecycleRobo.csprojResolveAssemblyReference.cache
+E:\IMAGINE CUP\project\ImagineCup_RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\IMAGINE CUP\project\ImagineCup_RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\RecycleRobo.exe
+E:\IMAGINE CUP\project\ImagineCup_RecycleRobo\RecycleRobo\RecycleRobo\obj\x86\Debug\RecycleRobo.pdb

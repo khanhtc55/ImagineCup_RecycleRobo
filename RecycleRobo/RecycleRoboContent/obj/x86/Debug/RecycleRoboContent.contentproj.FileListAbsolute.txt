@@ -1,0 +1,2 @@
+C:\Users\hongnv92\Desktop\RecycleRobo\RecycleRobo\RecycleRoboContent\obj\x86\Debug\RecycleRoboContent.contentprojResolveAssemblyReference.cache
+E:\IMAGINE CUP\project\ImagineCup_RecycleRobo\RecycleRobo\RecycleRoboContent\obj\x86\Debug\RecycleRoboContent.contentprojResolveAssemblyReference.cache

@@ -1,2 +1,1 @@
-Recycle-Robo---Imagine-Cup
-==========================
+[Imagine Cup] Recycle Robo Project
